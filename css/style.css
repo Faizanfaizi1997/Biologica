@@ -2,8 +2,8 @@
 @import url('http://fonts.cdnfonts.com/css/inter');
 
 html{
-    scroll-behavior: smoth;
-	scroll-padding: 163px;
+    scroll-behavior: smoth !important;
+	scroll-padding: 162px;
 }
 *{
     font-family: 'Inter', sans-serif;                                          
