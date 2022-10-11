@@ -2,7 +2,7 @@
 @import url('http://fonts.cdnfonts.com/css/inter');
 
 html{
-    scroll-behavior: smo
+    scroll-behavior: smoth;
 }
 *{
     font-family: 'Inter', sans-serif;                                          
